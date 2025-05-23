@@ -2,7 +2,6 @@
 **Effortless API Documentation for Spring Boot**  
 
 ![Last Commit](https://img.shields.io/github/last-commit/iangithua/Java-Swagger-Example) 
-![License](https://img.shields.io/badge/license-MIT-blue) 
 ![Java Version](https://img.shields.io/badge/Java-8%2B-orange) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.x-brightgreen)
 
